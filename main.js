@@ -1,2 +1,6 @@
 console.log("Pagrindiniai programavimo principai:")
 console.log("KISS (Keep It Simple, Stupid) - rašykime kodą kuo paprasčiau ir aiškiau.")
+console.log("DRY (Don't Repeat Yourself) - jei kode pastebime besikartojančio kodo fragmentus tikėtina, kad atėjo metas šį kodą abstrahuoti.")
+console.log("YAGNI (You Aren't Going to Need It) – nerašykime kodo funkcionalumams kurių šiuo metu nereikia.")
+console.log("Single Responsibility – vienas modulis vienam funkcionalumui realizuoti, vengti kurti pernelyg universalius modulius.")
+console.log("Separation of Concerns – pasirinkus rašyti kodą MVC (Mode View Controller) ar kitu architektūriniu šablonu, privalu laikytis to modelio vaidmenų ir sąveikos taisyklių.")
